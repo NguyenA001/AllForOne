@@ -1,0 +1,57 @@
+.TeemoBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/Teemo.png);
+    height: 100vh;
+    display: relative;
+}
+
+.TBubble1{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    left: 62.5rem;
+    top: 1.25rem;
+}
+
+.TBubble2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    top: 6.25rem;
+}
+
+.text1{
+    position: relative;
+    left:43.75rem;
+    top: -6.875rem;
+}
+.text2{
+    position: relative;
+    left:5rem;
+    top: -2.5rem;
+}
+
+.homeBtnAdd{
+    position: relative;
+    top:20rem;
+}
+
+.titlePosition{
+    position: relative;
+    left:60.75rem;
+    top:14.375rem;
+}
+
+.noBorderInputs{
+    background:transparent;
+    border-color:palevioletred;
+}

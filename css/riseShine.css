@@ -1,0 +1,55 @@
+.DianaBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/Diana.png);
+    height: 100vh;
+    display: relative;
+}
+
+.titlePosition {
+    margin-right: 1.25rem;
+}
+
+.DBubble1{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    transform: rotateX(180deg);
+    top: -6.25rem;
+}
+.DBubble2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    transform: rotateX(180deg);
+    top: 7.5rem;
+    left: 75rem;
+}
+
+.text1{
+    position: relative;
+    top:-14.375rem;
+    left: 5rem;
+}
+.text2{
+    position: relative;
+    left: 76.875rem;
+}
+
+.homeBtnrise{
+    position: relative;
+    top:24.688rem;
+}
+
+.noBorderInputs{
+    background:transparent;
+    border-color:mediumpurple;
+}

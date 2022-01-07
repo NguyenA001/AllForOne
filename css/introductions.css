@@ -1,0 +1,51 @@
+.Introductionspadding{
+    position: relative;
+    left: 87.5rem;
+    top: 18.75rem;
+}
+.homeBtnIntro{
+    position: relative;
+    top:25rem;
+}
+
+.LeonaBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/Leona.png);
+    height: 100vh;
+    display: relative;
+}
+
+.Txt1{
+    position: relative;
+    top: 5rem;
+}
+.Txt2{
+    position: relative;
+    left: 5rem;
+    top: 4.375rem;
+    background:transparent;
+    border-color:rgb(194, 148, 23);
+}
+
+.Bubbl1{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    left:0.625rem;
+    top: 0.625rem;
+}
+.Bubbl2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    top: 12.5rem;
+}

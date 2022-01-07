@@ -1,0 +1,57 @@
+.GragasBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/Gragas.png);
+    height: 100vh;
+    display: relative;
+}
+
+.GBubble1{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    transform: rotateY(180deg);
+    left: 31.25rem;
+    top:0.625rem;
+}
+.GBubble2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    top:6.25rem;
+}
+
+.text1{
+    position: relative;
+    left:-17.5rem;
+    top: -7.5rem;
+}
+.text2{
+    position: relative;
+    left:-47.5rem;
+    top: -3.125rem;
+}
+
+.titlePosition{
+    position: relative;
+    left:92.5rem;
+    top:11.10rem;
+}
+
+.homeBtnGrub{
+    position: relative;
+    top:16.875rem;
+}
+
+.noBorderInputs{
+    background:transparent;
+    border-color:olive;
+}

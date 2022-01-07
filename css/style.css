@@ -1,0 +1,101 @@
+.homeBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/HomePage.jpeg);
+    height: 100vh;
+    display: relative;
+}
+
+.number2padding{
+    position: relative;
+    left: 20.625rem;
+}
+.number5padding{
+    position: relative;
+    left: 1.875rem;
+}
+.number8padding{
+    position: relative;
+    left: 11.25rem;
+    top: 1.875rem;
+}
+.number1padding{
+    position: relative;
+    left: 16.25rem;
+    top: 4.375rem;
+}
+.number3padding{
+    position: relative;
+    left: 10.625rem;
+    top: 4.375rem;
+}
+.number4padding{
+    position: relative;
+    left: 1.875rem;
+    top: 5rem;
+}
+.number6padding{
+    position: relative;
+    left: 11.875rem;
+    top: 6.25rem;
+}
+.number7padding{
+    position: relative;
+    left: 3.125rem;
+}
+.number9padding{
+    position: relative;
+    left: 3.75rem;
+    top: 1.25rem;
+}
+
+.homeBtnposition{
+    position: relative;
+    top: 21.25rem;
+}
+.byMePosition{
+    position: relative;
+    left: 110.25rem;
+    top: 20rem;
+}
+
+.textWhite{
+    color:white;
+}
+
+.allForOneTxt{
+    font-size: 100px;
+}
+
+.allForOneTxtPosition{
+    position:relative;
+    top: 25rem;
+}
+
+.numbersSize{
+    font-size:70px;
+}
+
+@font-face {
+    font-family: "customfont";
+    src: url(../font/OptimusPrinceps.ttf);
+}
+
+.font{
+    font-family: "customfont";
+}
+
+.fontBold{
+    font-family: "customfont";
+    font-weight: 600;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.fontBig{
+    font-size: larger;
+}
+
+

@@ -1,0 +1,73 @@
+.LuluBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/Lulu.png);
+    height: 100vh;
+    display: relative;
+}
+
+.TitlePadding{
+    margin-left: 1.875rem;
+}
+
+.LBubble1{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    left:43.75rem;
+    top: -6.25rem;
+}
+
+.LBubble2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 31.75rem;
+    width: 56.25rem;
+    display: relative;
+    position: relative;
+    transform: rotateY(180deg);
+    left: 43.75rem;
+    top: -1.875rem;
+}
+.LBubbleResponse{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 31.75rem;
+    width: 56.25rem;
+    display: relative;
+    position: relative;
+    left: 43.75rem;
+    top: -1.875rem;
+}
+
+.text1{
+    position: relative;
+    left:-5rem;
+    top: -15.313rem;
+}
+.textResponse{
+    position: relative;
+    left: 11.25rem;
+    top: -25rem;
+}
+.text2{
+    position: relative;
+    left:59.375rem;
+    top: -28.125rem;
+}
+
+.homeBtnStories{
+    position: relative;
+    top:-22.5rem;
+}
+
+.noBorderInputs{
+    background:transparent;
+    border-color:rosybrown;
+}

@@ -1,0 +1,57 @@
+.RyzeBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/Ryze.png);
+    height: 100vh;
+    display: relative;
+}
+
+.RBubble1{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    transform: rotateY(180deg);
+    left: 37.5rem;
+    top: 1.25rem;
+}
+
+.text1{
+    position: relative;
+    left:-11.25rem;
+    top: -7.5rem;
+}
+.text2{
+    position: relative;
+    left:5rem;
+    top: -3.125rem;
+}
+
+.RBubble2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    top: 6.25rem;
+}
+.homeBtngreater{
+    position: relative;
+    top: 15.625rem;
+}
+
+.titlePosition{
+    position: relative;
+    left:68.75rem;
+    top:10rem;
+}
+
+.noBorderInputs{
+    background:transparent;
+    border-color:rebeccapurple;
+}

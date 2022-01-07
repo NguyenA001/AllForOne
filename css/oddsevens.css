@@ -1,0 +1,53 @@
+.YuumiBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/Yuumi.png);
+    height: 100vh;
+    display: relative;
+}
+
+.TitlePadding{
+    margin-left: 1.875rem;
+}
+
+.YBubble1{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    left:75rem;
+    top: -6.25rem;
+}
+.YBubble2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+}
+
+.text1{
+    position: relative;
+    left: 56.25rem;
+    top: -13.75rem;
+}
+.text2{
+    position: relative;
+    left: 5rem;
+    top: -8.125rem;
+}
+
+.homeBtnOddsEvens{
+    position: relative;
+    top:13.125rem;
+}
+
+.noBorderInputs{
+    background:transparent;
+    border-color:peachpuff;
+}

@@ -1,0 +1,80 @@
+.AurelionBG{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/Aurelion.png);
+    height: 100vh;
+    display: relative;
+}
+
+.ABubble1{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 12.5rem;
+    width: 22.188rem;
+    display: relative;
+    position: relative;
+    left: 76.25rem;
+    top: 1.25rem;
+}
+.ABubble2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 18.75rem;
+    width: 33.25rem;
+    display: relative;
+    position: relative;
+    top: -7.5rem;
+}
+.AResponseBubble2{
+    background-image: url(../images/SpeechBubble.png);
+    background-size: cover;
+    background-position: center;
+    height: 28.125rem;
+    width: 50rem;
+    display: relative;
+    position: relative;
+    top: -7.5rem;
+}
+
+.text1{
+    position: relative;
+    left:58.125rem;
+    top: -6.25rem;
+}
+.text2{
+    position: relative;
+    left:-12.5rem;
+    top: -25rem;
+}
+.textResponse2{
+    position: relative;
+    left:-4.375rem;
+    top: -31.25rem;
+}
+
+.titlePosition{
+    position: relative;
+    left:78.75rem;
+    top:7.5rem;
+}
+.titlePosition2{
+    position: relative;
+    left:68.75rem;
+    top:-12.5rem;
+}
+
+.homeBtnAdd{
+    position: relative;
+    top:12.5rem;
+}
+.homeBtnAdd2{
+    position: relative;
+    top:-7.063rem;
+}
+
+.noBorderInputs{
+    background:transparent;
+    border-color:royalblue;
+}
